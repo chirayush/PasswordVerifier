@@ -1,3 +1,5 @@
+Implementing http://osherove.com/tdd-kata-3-refactoring/
+
 ###Create a Password verifications class called “PasswordVerifier”
 
 1. Add the following verifications to a master function called “Verify()”
